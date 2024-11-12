@@ -4695,5 +4695,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_slab": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-11-12 05:15:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_mosaic_stairs": {
+    "criteria": {
+      "has_bamboo_mosaic": "2024-11-12 05:15:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-11-12 05:23:47 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
